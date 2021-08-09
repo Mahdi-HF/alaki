@@ -6,3 +6,5 @@ javad
 ghasem
 mina
 addd by me!
+added by other people
+add in merge commit
